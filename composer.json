@@ -1,6 +1,6 @@
 {
   "type": "library",
-  "name": "Livedex DDD Core",
+  "name": "livedex/ddd-core",
   "description": "Livedex's DDD Core",
   "license": "proprietary",
   "require": {
