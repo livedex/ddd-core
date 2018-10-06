@@ -6,11 +6,11 @@
  * Time: 22:09
  */
 
-namespace Pokedex\Core;
+namespace Pokedex\Core\Domain\Model;
 
 /**
  * Interface ValueObject
- * @package Pokedex\Core
+ * @package Pokedex\Core\Domain\Model
  */
 interface ValueObject
 {

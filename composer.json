@@ -16,5 +16,10 @@
     "psr-4": {
       "Pokedex\\Core\\": "src/"
     }
+  },
+  "require-dev": {
+    "doctrine/doctrine-bundle": "^1.9",
+    "doctrine/orm": "^2.6",
+    "jms/serializer": "^1.13"
   }
 }

@@ -6,7 +6,7 @@
  * Time: 21:29
  */
 
-namespace Pokedex\Core;
+namespace Pokedex\Core\Domain\Model;
 
 /**
  * Class ImmutableCollection

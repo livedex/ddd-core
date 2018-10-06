@@ -6,7 +6,9 @@
  * Time: 21:26
  */
 
-namespace Pokedex\Core;
+namespace Pokedex\Core\Domain\Model;
+
+use Pokedex\Core\Domain\Model\Event\DomainEvent;
 
 
 /**
